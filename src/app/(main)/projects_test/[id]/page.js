@@ -39,13 +39,13 @@ export default function Page() {
           <h3 className="subsection-title">링크</h3>
           <div className="links">
             <Link
-              href="https://web-programming-team-project.vercel.app/"
+              href="http://52.231.101.23:3001/projects_test"
               className="link-button live-demo"
             >
               라이브 데모
             </Link>
             <Link
-              href="https://github.com/JoongBuGit/Web_Programming_Team_Project"
+              href="https://github.com/JoongBuGit/web_programming_site_modify3"
               className="link-button github"
             >
               GitHub
